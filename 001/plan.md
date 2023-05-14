@@ -26,6 +26,17 @@
 - node_modules 
 - dependencies
 - devDependencies
+
+______ 
+Home work:
+- what is nvmrc
+- install zsh
+- git
+- symantic version
+- POST/GET/PUT/DELTE/UPDATE
+- watch express videos
+
+
 ## JS 
 - simple app 
 - first version  / semantic versioning 
