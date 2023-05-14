@@ -26,9 +26,10 @@
 - node_modules 
 - dependencies
 - devDependencies
-
+## end of lesson 1
 ______ 
-Home work:
+## Home work:
+- ssh keys
 - what is nvmrc
 - install zsh
 - git
