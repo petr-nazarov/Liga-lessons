@@ -37,9 +37,13 @@
 Home work:
 
 =======
+
 ## end of lesson 1
-______ 
+
+---
+
 ## Home work:
+
 - ssh keys
 - what is nvmrc
 - install zsh
@@ -64,6 +68,7 @@ ______
 
 - instaloing esLint
 - lint on save
+- Prettier
 
 ## Husky
 
@@ -71,5 +76,19 @@ ______
 - commit mesges
 
 -- 2.5 version
+
+=== End of lesson 2
+
+# Home work
+
+- Writre a server that gets a name of the city and returns a temperature
+- Use Types or Intterfaces!!
+  -- NOT A SINGLE ANY
+  -- Add atleast 2 roules for prettier and 2 rules for eslint
+
+# Home work with \*
+
+- Extend airbnb config for prettier and eslint
+- Configure the debugger in vscode for ts
 
 ## Debugger
