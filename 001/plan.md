@@ -36,6 +36,11 @@
 
 Home work:
 
+=======
+## end of lesson 1
+______ 
+## Home work:
+- ssh keys
 - what is nvmrc
 - install zsh
 - git
