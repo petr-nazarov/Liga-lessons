@@ -74,16 +74,16 @@ Home work:
 - commit mesges
 
 ---
-End of lesson 2
+## End of lesson 2
 
-## Home work
+### Home work
 - Writre a server that gets a name of the city in a POST request  and returns a temperature
 - Use postman to send the requests
 - Use Types or Intterfaces!!
   -- NOT A SINGLE ANY
   -- Add atleast 2 roules for prettier and 2 rules for eslint
 
-# Home work with \*
+### Home work with \*
 
 - Extend airbnb config for prettier and eslint
 - Configure the debugger in vscode for ts
