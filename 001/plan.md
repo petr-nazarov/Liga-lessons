@@ -36,8 +36,6 @@
 
 Home work:
 
-=======
-
 ## end of lesson 1
 
 ---
@@ -75,13 +73,12 @@ Home work:
 - lint on commit
 - commit mesges
 
--- 2.5 version
+---
+End of lesson 2
 
-=== End of lesson 2
-
-# Home work
-
-- Writre a server that gets a name of the city and returns a temperature
+## Home work
+- Writre a server that gets a name of the city in a POST request  and returns a temperature
+- Use postman to send the requests
 - Use Types or Intterfaces!!
   -- NOT A SINGLE ANY
   -- Add atleast 2 roules for prettier and 2 rules for eslint
@@ -91,4 +88,3 @@ Home work:
 - Extend airbnb config for prettier and eslint
 - Configure the debugger in vscode for ts
 
-## Debugger
